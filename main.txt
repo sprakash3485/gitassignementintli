@@ -1,2 +1,3 @@
 This is created from master branch
 This is added text from develop branch
+This is added text from feature2 branch
